@@ -1,13 +1,13 @@
 # Sound Creations Ltd Company Profile
 
-Company profile for **Sound Creations Ltd** (https://soundcreationsltd.com), built by Pimofy Digital. Current version: **1.8.0** (see `CHANGELOG.md`).
+Company profile for **Sound Creations Ltd** (https://soundcreationsltd.com), built by Pimofy Digital. Current version: **1.9.0** (see `CHANGELOG.md`).
 
 One source, two outputs:
 - **Web profile:** `index.html` (responsive; works on GitHub Pages or any static host).
-- **Printable PDF (A4 landscape, 297 x 210 mm, 22 pages):** `dist/Sound-Creations-Company-Profile.pdf`, generated from the same `index.html` with print CSS.
+- **Printable PDF (A4 landscape, 297 x 210 mm, 20 pages):** `dist/Sound-Creations-Company-Profile.pdf`, generated from the same `index.html` with print CSS.
 
 ## Pages
-1 Cover - 2 Contents - 3 Our journey - 4 How we work - 5 Professional audio - 6 Acoustics & engineering - 7 Projects showcase - 8-15 Featured projects (West Nairobi School, RPF Rubavu Multipurpose Hall, Sarit Expo Centre, Parklands Baptist Church, PCEA Kahawa Farmers Church, CITAM Buruburu, Playza Prestige Plaza, COVO NBO) - 16 More landmark installations - 17 Other completed projects - 18 Our clients - 19 Brands & partners (15 brands) - 20 Why choose us (4 Google reviews) - 21 Regional reach - 22 Contact.
+1 Cover - 2 Contents - 3 Our journey - 4 How we work - 5 Professional audio - 6 Acoustics & engineering - 7 Projects showcase - 8-15 Featured projects (West Nairobi School, RPF Rubavu Multipurpose Hall, Sarit Expo Centre, Parklands Baptist Church, PCEA Kahawa Farmers Church, CITAM Buruburu, Playza Prestige Plaza, COVO NBO) - 16 Other completed projects - 17 Brands & partners (15 brands) - 18 Why choose us (4 Google reviews) - 19 Regional reach - 20 Contact.
 
 ## Structure
 | Path | What |
@@ -18,7 +18,6 @@ One source, two outputs:
 | `assets/img/logo-color.png`, `logo-white.png` | Official Sound Creations logos (from soundcreationsltd.com) |
 | `assets/img/photos/` | Profile photography (taken from the 2026 PDF profile) |
 | `assets/img/projects/` | Real Sound Creations project photos |
-| `assets/img/clients/` | Client logos for page 19 (c01-c19 corporate, c20-c32 worship, c33-c43 education) |
 | `assets/img/brands/` | Manufacturer logos for the brands page |
 | `build/build-pdf.py` | Rebuilds the PDF with WeasyPrint |
 | `docs/FACTS-NEEDED.md` | Items still worth confirming with Sound Creations |

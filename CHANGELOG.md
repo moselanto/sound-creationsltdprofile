@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.9.0 - 20 Nov 2026
+- Removed the case studies page (More landmark installations, formerly Landmark installations and Hospitality, live & heritage) on the owner's request; its four unused photos deleted.
+- Removed the Our Clients page (client logos) on the owner's request; the 43 client logo files deleted.
+- Other completed projects (Track record) kept and redesigned to match the featured project pages: photo panel on the left with "850+ projects completed", the four categories on the right (Houses of worship 20, Education 8, Corporate & media 10, Hospitality & events 13) in four-column lists with count badges, spaced to fill the page.
+- Profile is now 20 pages. Sections renumbered 01-09 (Track record 06, Brands & partners 07, Why choose us 08, Local presence 09); contents updated. PDF rebuilt and checked.
+
 ## 1.8.0 - 20 Nov 2026
 - Featured projects expanded from 4 to 8, in this order everywhere (showcase list, project pages, page numbers): 01 West Nairobi School, 02 RPF Rubavu Multipurpose Hall, 03 Sarit Expo Centre, 04 Parklands Baptist Church, 05 PCEA Kahawa Farmers Church, 06 CITAM Buruburu, 07 Playza, Prestige Plaza, 08 COVO NBO. Text and photos for 05-08 taken from their project pages on soundcreationsltd.com (new photos: pcea-kahawa-1/2, citam-buruburu-1, playza-1/2, covo-1).
 - All 8 project pages use one new layout: project photo on the left (large project number, inset photo where available, category chip), write-up on the right (title, sub-line, Category / Scope / Location / Status, description, Key technology & scope card) and an 01-08 progress strip, all anchored to keep every page balanced.
