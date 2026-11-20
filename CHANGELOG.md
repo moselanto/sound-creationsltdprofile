@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.3.2 - 20 Nov 2026
+- Cover (page 1), owner request: the Company Profile block (with the sound wave) moved back down to the bottom of the cover, where it sat on the original PDF. The process steps and headline stay where they were in 1.3.1. PDF rebuilt and checked.
+
 ## 1.3.1 - 20 Nov 2026
 - Cover (page 1), owner request: moved the process steps, headline and Company Profile block up so the page is balanced, with clear space between the logo and the content and a short, even gap before the Company Profile block. PDF rebuilt and checked.
 
