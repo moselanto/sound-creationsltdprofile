@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.11.0 - 20 Nov 2026
+- Removed the Why choose us page (Our competitive edge, including the 4 Google reviews) on the owner's request; the unused technician photo deleted.
+- Profile is now 19 pages. Local presence is now section 08 (page 18) and Contact is page 19; contents updated. PDF rebuilt and checked.
+
 ## 1.10.0 - 20 Nov 2026
 - Brands & partners (page 17) kept and improved on the owner's request: "supported locally." in red; the 15 logos grouped with count badges into Professional audio (9), Lighting & cabling (2) and Acoustics (4) with larger tiles; partner cards now carry a label (Authorised partner, Kenya sales office, Kenya distributor, Since 2024); the distribution footprint is a panel with East Africa, Middle East and Asia columns, anchored above the footer so the page is filled. PDF rebuilt and checked.
 
