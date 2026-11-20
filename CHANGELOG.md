@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.6.0 - 20 Nov 2026
+- Removed the What we do page (One partner. Every discipline.) on the owner's request. The profile is now 20 pages; the three unused solution photos were deleted.
+- Professional audio (now page 5, section 03) redesigned: photo panel on the left with a "Designed before it's hung" note; six capability items in a numbered two-column grid; Parklands Baptist Church case in point with key figures (2,500 seats, 360 degree coverage, 168 channels); key brands shown as logo tiles (dB Technologies, NEXO, Bose, Shure, Allen & Heath, Midas, FANE).
+- Acoustics & engineering (now page 6, section 04) redesigned: heading with intro; five-step method panel (Measure, Analyse, Design, Treat, Verify); bottom row anchored above the footer with two captioned photos, treatment solutions (ceilings, wall panels, sound isolation), the engineering and consultancy capabilities list and the RPF Rubavu Hall case in point.
+- Sections renumbered 01-11 and pages 01-20 on every page; contents page entries updated to match.
+- PDF rebuilt and checked.
+
 ## 1.5.0 - 20 Nov 2026
 - Removed the Purpose page (Vision, mission & values) on the owner's request. The profile is now 21 pages; the unused vision photo was deleted.
 - How we work (now page 4, section 02) redesigned: the five steps (Consult, Design, Distribute, Integrate, Support) sit in one connected panel with large step numbers, chevron dividers and a fuller line of text each; "What we deliver" label above four taller service cards (Consultancy, Distribution & Dealership, Integration, After-Sale Services) with full-width photos, red number badges and red divider, anchored above the footer so the page is evenly filled.
