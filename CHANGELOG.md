@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.12.0 - 20 Nov 2026
+- Regional reach (page 18), owner request to improve: heading with "Regional impact." in red and intro alongside; larger map (true proportions, pins re-placed) with legend and "4 countries · 1 team"; head office photo with caption and four office cards (Kenya head office, Rwanda since 2022, DRC Congo since 2024, UAE since 2024) filling the right column to the footer.
+- Contact (page 19), owner request to improve: larger headline with "extraordinary" in red; a "Plan a project" card with the website's three steps (consultation and site visit; system design and quotation; supply, installation, training and support) and the Request a consultation button; red sound-wave graphic; one contact panel (head office, phone/WhatsApp, email, open hours) and social handles as chips, anchored above the closing bar.
+- PDF rebuilt and checked.
+
 ## 1.11.0 - 20 Nov 2026
 - Removed the Why choose us page (Our competitive edge, including the 4 Google reviews) on the owner's request; the unused technician photo deleted.
 - Profile is now 19 pages. Local presence is now section 08 (page 18) and Contact is page 19; contents updated. PDF rebuilt and checked.
