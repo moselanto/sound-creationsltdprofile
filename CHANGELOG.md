@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.7.1 - 20 Nov 2026
+- Projects showcase opener (page 7), owner request to improve and balance: larger headline with "Real results." in red and a red rule; stronger photo gradient; a "Featured projects" band anchored above the footer with four cards (West Nairobi School, RPF Rubavu Multipurpose Hall, Sarit Expo Centre, Parklands Baptist Church) showing category, location and page number (linked on the web page); a key-figures panel (850+ projects completed, 22+ years of expertise, 4 countries of operation) replaces the lone 850+ figure. PDF rebuilt and checked.
+
 ## 1.7.0 - 20 Nov 2026
 - Removed the Sectors page (Engineered for how every space is used.) on the owner's request. The profile is now 19 pages; the five unused sector photos were deleted.
 - Sections renumbered 01-10 and pages 01-19 on every page; contents page entries updated to match.

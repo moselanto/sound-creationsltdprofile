@@ -285,6 +285,29 @@ a{color:inherit;text-decoration:none}
 .big b{display:block;font:700 44pt "Space Grotesk",sans-serif;line-height:1}
 .big span{font:600 6.5pt Inter,sans-serif;letter-spacing:.2em;color:var(--g)}
 
+/* showcase opener v1.8 */
+.sc-bg img{object-position:center 40%}
+.sc-bg:after{background:linear-gradient(90deg,rgba(11,10,16,.95) 0%,rgba(11,10,16,.75) 42%,rgba(11,10,16,.25) 75%,rgba(11,10,16,.15) 100%),linear-gradient(0deg,rgba(11,10,16,.92) 0%,rgba(11,10,16,0) 45%)!important}
+.sc-hero{position:absolute;left:16mm;top:42mm;width:140mm}
+.sc-hero .h1{font-size:44pt;line-height:1.02;letter-spacing:-.03em}
+.sc-hero .cv-rule{margin:6mm 0 5mm}
+.sc-hero .lead{font-size:9.6pt;color:#d8d8e0;max-width:125mm;margin:0}
+.sc-band{position:absolute;left:16mm;right:16mm;bottom:26mm;display:grid;grid-template-columns:1fr 82mm;gap:6mm;align-items:end}
+.sc-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:3mm}
+.sc-i{display:block;background:rgba(20,19,26,.82);border:1px solid var(--line);border-top:2px solid var(--pd);border-radius:2.5mm;padding:3.5mm 3.5mm 3mm;color:var(--w)}
+.sc-i:first-child{border-top-color:var(--r)}
+.sc-n{display:block;font:700 13pt "Space Grotesk",sans-serif;color:var(--p);line-height:1;margin-bottom:2mm}
+.sc-i:first-child .sc-n{color:var(--r)}
+.sc-i b{display:block;font:700 8.6pt "Space Grotesk",sans-serif;line-height:1.2;min-height:8mm}
+.sc-i small{display:block;font-size:6.5pt;color:var(--g);margin-top:1mm}
+.sc-i em{display:block;font:600 5.8pt Inter,sans-serif;letter-spacing:.16em;color:var(--r);font-style:normal;margin-top:2mm}
+.sc-stats{background:rgba(20,19,26,.85);border:1px solid var(--line);border-left:2.5px solid var(--r);border-radius:0 3mm 3mm 0;padding:3.5mm 5mm}
+.sc-stats div{display:flex;align-items:baseline;gap:3mm;padding:1.6mm 0;border-bottom:1px solid var(--line)}
+.sc-stats div:last-child{border-bottom:0}
+.sc-stats b{font:700 18pt "Space Grotesk",sans-serif;min-width:21mm;line-height:1}
+.sc-stats div:first-child b{color:var(--r)}
+.sc-stats span{white-space:nowrap;font:600 5.8pt Inter,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--g)}
+
 /* featured project */
 .fp{position:absolute;top:0;bottom:0;width:52%;z-index:0}
 .fp--l{left:0}.fp--r{right:0}
@@ -383,7 +406,7 @@ a{color:inherit;text-decoration:none}
  .who,.ac,.reach,.vm,.jr{grid-template-columns:1fr}
  .jr-photo{height:56vw}
  #journey .tl{position:static;margin-top:9mm}
- .svrow{position:static;margin-top:8mm}#audio .ap{height:auto}#audio .ap-case,#audio .ap-brands{position:static;margin-top:5mm}#acoustics .acrow{grid-template-columns:1fr 1fr}#acoustics .ac-sol div{height:auto}.ap-photo{position:relative;width:auto;height:58vw;margin:0 -6mm 6mm;inset:auto}.ap{margin-left:0}.ap-badge{left:6mm}.acrow{position:static;margin-top:8mm;grid-template-columns:1fr}.ac-pics{display:grid;grid-template-columns:1fr 1fr;gap:3mm}.ac-pics .img{margin:0}.ac-pics .img{height:40vw}.ap-brands>div{grid-template-columns:repeat(4,1fr)}.pflow{grid-template-columns:1fr 1fr}.svgrid{grid-template-columns:1fr 1fr}
+ .svrow{position:static;margin-top:8mm}.sc-hero,.sc-band{position:relative;left:auto;right:auto;top:auto;bottom:auto;width:auto}.sc-hero{margin-top:30mm}.sc-band{grid-template-columns:1fr;margin-top:10mm}.sc-grid{grid-template-columns:1fr 1fr}#audio .ap{height:auto}#audio .ap-case,#audio .ap-brands{position:static;margin-top:5mm}#acoustics .acrow{grid-template-columns:1fr 1fr}#acoustics .ac-sol div{height:auto}.ap-photo{position:relative;width:auto;height:58vw;margin:0 -6mm 6mm;inset:auto}.ap{margin-left:0}.ap-badge{left:6mm}.acrow{position:static;margin-top:8mm;grid-template-columns:1fr}.ac-pics{display:grid;grid-template-columns:1fr 1fr;gap:3mm}.ac-pics .img{margin:0}.ac-pics .img{height:40vw}.ap-brands>div{grid-template-columns:repeat(4,1fr)}.pflow{grid-template-columns:1fr 1fr}.svgrid{grid-template-columns:1fr 1fr}
  .sol,.svc,.sec,.cases,.done,.bnote,.offices,.cbox{grid-template-columns:1fr 1fr}
  .tl,.proc{grid-template-columns:1fr 1fr}
  .cl{grid-template-columns:repeat(5,1fr)}.bgrid{grid-template-columns:repeat(3,1fr)}
