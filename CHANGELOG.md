@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.0 - 20 Nov 2026
+- Page 1 (cover) redesigned on the owner's request. It now carries only the logo (large, white), the tagline "If it sounds good, it's Sound Creations.", the Consult > Design > Distribute > Integrate > Support process (as linked pills), the headline "Engineering exceptional sound. Delivering complete solutions." and the sub-line "World-class professional audio, visual, lighting and acoustic solutions for Africa and the Middle East."
+- Removed from the cover: the country strip, the "Company Profile / 2026 Edition / Since 2004" block and the bottom bar with website, email and phone (all still on the contact page).
+- Stronger left and bottom gradient, red accent rule and a soft red glow for a cleaner, more premium cover. PDF rebuilt and checked.
+
 ## 1.0.0 - 20 Nov 2026
 - Repo set up the same way as `moselanto/vtechprofile`: one `index.html` + `assets/css/profile.css` source for the web page and the PDF, `build/build-pdf.py` (WeasyPrint), README, AGENTS, FACTS-NEEDED, `.nojekyll` for GitHub Pages.
 - Rebuilt the existing 23-page Sound Creations Company Profile 2026 PDF in HTML/CSS, page for page (A4 landscape 297 x 210 mm). Photos taken from the PDF; logos from soundcreationsltd.com; fonts Space Grotesk + Inter self-hosted.
