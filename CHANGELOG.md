@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.10.0 - 20 Nov 2026
+- Brands & partners (page 17) kept and improved on the owner's request: "supported locally." in red; the 15 logos grouped with count badges into Professional audio (9), Lighting & cabling (2) and Acoustics (4) with larger tiles; partner cards now carry a label (Authorised partner, Kenya sales office, Kenya distributor, Since 2024); the distribution footprint is a panel with East Africa, Middle East and Asia columns, anchored above the footer so the page is filled. PDF rebuilt and checked.
+
 ## 1.9.0 - 20 Nov 2026
 - Removed the case studies page (More landmark installations, formerly Landmark installations and Hospitality, live & heritage) on the owner's request; its four unused photos deleted.
 - Removed the Our Clients page (client logos) on the owner's request; the 43 client logo files deleted.
