@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.3.1 - 20 Nov 2026
+- Cover (page 1), owner request: moved the process steps, headline and Company Profile block up so the page is balanced, with clear space between the logo and the content and a short, even gap before the Company Profile block. PDF rebuilt and checked.
+
 ## 1.3.0 - 20 Nov 2026
 - Cover (page 1), owner request with a reference screenshot: the "COMPANY PROFILE / 2026 EDITION · SINCE 2004" block now has its own thick red bar on the left, a larger white title, the edition line in brand purple, and a red sound-wave graphic running to its right (inline SVG). The long red bar that ran beside the whole cover text was removed so the bar belongs to this block only. PDF rebuilt and checked.
 
