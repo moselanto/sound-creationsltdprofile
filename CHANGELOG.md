@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.0 - 20 Nov 2026
+- Removed the old page 3 (Who we are) on the owner's request. The profile is now 22 pages.
+- Our journey (now page 3) redesigned around one photo only: the showroom at Mpaka Plaza, Westlands, using the higher-resolution showroom photo the owner supplied (replaces assets/img/photos/showroom.jpg). The three previous journey photos are no longer used on this page. Layout: heading and intro with a "2004 / Founded in Nairobi" marker on the left, large captioned showroom photo on the right, five-step timeline (2004, 2018, 2022, 2024, 2026) below.
+- Section numbers renumbered 01-13 (Our journey is now section 01) on every page eyebrow and footer; page numbers renumbered 01-22; contents page updated to match. Contents page layout unchanged.
+- PDF rebuilt and checked.
+
 ## 1.3.2 - 20 Nov 2026
 - Cover (page 1), owner request: the Company Profile block (with the sound wave) moved back down to the bottom of the cover, where it sat on the original PDF. The process steps and headline stay where they were in 1.3.1. PDF rebuilt and checked.
 

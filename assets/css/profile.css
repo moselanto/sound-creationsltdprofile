@@ -119,6 +119,16 @@ a{color:inherit;text-decoration:none}
 .tl p{font-size:7.3pt;color:var(--g);line-height:1.45}
 .tl div:last-child b{color:var(--r)}.tl div:last-child:before{background:var(--r)}
 
+/* 03 journey v1.4: single showroom photo */
+.jr{display:grid;grid-template-columns:88mm 1fr;gap:9mm;align-items:stretch}
+.jr-copy{display:flex;flex-direction:column;justify-content:center}
+.jr-since{margin-top:6mm;border-left:2.5px solid var(--r);padding-left:4mm}
+.jr-since b{display:block;font:700 26pt "Space Grotesk",sans-serif;line-height:1}
+.jr-since span{display:block;margin-top:1.2mm;font:600 6.5pt Inter,sans-serif;letter-spacing:.2em;text-transform:uppercase;color:var(--p)}
+.jr-photo{position:relative;height:92mm;border-radius:4mm;box-shadow:0 10mm 22mm rgba(0,0,0,.45)}
+.jr-photo img{object-position:center 55%}
+#journey .tl{margin-top:9mm}
+
 /* 05 vision */
 .vm{display:grid;grid-template-columns:1fr 1fr;gap:4mm}
 .vm .card{border-top:2px solid var(--p)}
@@ -282,7 +292,8 @@ a{color:inherit;text-decoration:none}
  .full{position:absolute}
  .pr,.fpc--r{margin-left:0}.fpc{width:auto}
  .toc{width:auto}.glance{position:static;width:auto;margin-top:6mm}
- .who,.ac,.reach,.vm{grid-template-columns:1fr}
+ .who,.ac,.reach,.vm,.jr{grid-template-columns:1fr}
+ .jr-photo{height:56vw}
  .sol,.svc,.sec,.cases,.done,.bnote,.offices,.cbox{grid-template-columns:1fr 1fr}
  .tl,.proc{grid-template-columns:1fr 1fr}
  .cl{grid-template-columns:repeat(5,1fr)}.bgrid{grid-template-columns:repeat(3,1fr)}
