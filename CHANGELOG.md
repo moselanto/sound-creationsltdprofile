@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.3.0 - 20 Nov 2026
+- Cover (page 1), owner request with a reference screenshot: the "COMPANY PROFILE / 2026 EDITION · SINCE 2004" block now has its own thick red bar on the left, a larger white title, the edition line in brand purple, and a red sound-wave graphic running to its right (inline SVG). The long red bar that ran beside the whole cover text was removed so the bar belongs to this block only. PDF rebuilt and checked.
+
 ## 1.2.0 - 20 Nov 2026
 - Cover (page 1), owner request: the headline is now the tagline "If it sounds good, it's Sound Creations." ("Sound Creations." in red). Removed "Engineering exceptional sound. Delivering complete solutions.", the small tagline line above the process steps and the "World-class professional audio..." sub-line.
 - "COMPANY PROFILE / 2026 EDITION · SINCE 2004" restored below the headline. Process steps (Consult > Design > Distribute > Integrate > Support) kept above the headline. PDF rebuilt and checked.
