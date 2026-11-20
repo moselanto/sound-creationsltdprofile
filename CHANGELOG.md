@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.8.0 - 20 Nov 2026
+- Featured projects expanded from 4 to 8, in this order everywhere (showcase list, project pages, page numbers): 01 West Nairobi School, 02 RPF Rubavu Multipurpose Hall, 03 Sarit Expo Centre, 04 Parklands Baptist Church, 05 PCEA Kahawa Farmers Church, 06 CITAM Buruburu, 07 Playza, Prestige Plaza, 08 COVO NBO. Text and photos for 05-08 taken from their project pages on soundcreationsltd.com (new photos: pcea-kahawa-1/2, citam-buruburu-1, playza-1/2, covo-1).
+- All 8 project pages use one new layout: project photo on the left (large project number, inset photo where available, category chip), write-up on the right (title, sub-line, Category / Scope / Location / Status, description, Key technology & scope card) and an 01-08 progress strip, all anchored to keep every page balanced.
+- Projects showcase opener now lists all 8 featured projects with page numbers 08-15.
+- PCEA Kahawa Farmers, CITAM Buruburu, Playza and COVO left the case studies; the remaining four (Kenyatta University Amphitheatre, Oshwal Senior Academy, Roadshow Trucks, All Saints Cathedral) are combined on one "More landmark installations." page (page 16) with taller photos.
+- Profile is now 22 pages; contents page numbers updated (Completed Projects 17, Clients 18, Brands 19, Why Choose Us 20, Regional Reach & Contact 21). PDF rebuilt and checked.
+
 ## 1.7.1 - 20 Nov 2026
 - Projects showcase opener (page 7), owner request to improve and balance: larger headline with "Real results." in red and a red rule; stronger photo gradient; a "Featured projects" band anchored above the footer with four cards (West Nairobi School, RPF Rubavu Multipurpose Hall, Sarit Expo Centre, Parklands Baptist Church) showing category, location and page number (linked on the web page); a key-figures panel (850+ projects completed, 22+ years of expertise, 4 countries of operation) replaces the lone 850+ figure. PDF rebuilt and checked.
 
