@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.5.0 - 20 Nov 2026
+- Removed the Purpose page (Vision, mission & values) on the owner's request. The profile is now 21 pages; the unused vision photo was deleted.
+- How we work (now page 4, section 02) redesigned: the five steps (Consult, Design, Distribute, Integrate, Support) sit in one connected panel with large step numbers, chevron dividers and a fuller line of text each; "What we deliver" label above four taller service cards (Consultancy, Distribution & Dealership, Integration, After-Sale Services) with full-width photos, red number badges and red divider, anchored above the footer so the page is evenly filled.
+- Sections renumbered 01-12 and pages 01-21 on every page; contents page entries updated to match.
+- PDF rebuilt and checked.
+
 ## 1.4.1 - 20 Nov 2026
 - Our journey (page 3), owner request: timeline moved down and anchored above the footer so the page is balanced instead of leaving empty space at the bottom; showroom photo enlarged to 100 mm high. PDF rebuilt and checked.
 
