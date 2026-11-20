@@ -1,13 +1,13 @@
 # Sound Creations Ltd Company Profile
 
-Company profile for **Sound Creations Ltd** (https://soundcreationsltd.com), built by Pimofy Digital. Current version: **1.6.1** (see `CHANGELOG.md`).
+Company profile for **Sound Creations Ltd** (https://soundcreationsltd.com), built by Pimofy Digital. Current version: **1.7.0** (see `CHANGELOG.md`).
 
 One source, two outputs:
 - **Web profile:** `index.html` (responsive; works on GitHub Pages or any static host).
-- **Printable PDF (A4 landscape, 297 x 210 mm, 20 pages):** `dist/Sound-Creations-Company-Profile.pdf`, generated from the same `index.html` with print CSS.
+- **Printable PDF (A4 landscape, 297 x 210 mm, 19 pages):** `dist/Sound-Creations-Company-Profile.pdf`, generated from the same `index.html` with print CSS.
 
 ## Pages
-1 Cover - 2 Contents - 3 Our journey - 4 How we work - 5 Professional audio - 6 Acoustics & engineering - 7 Industries we serve - 8 Projects showcase - 9-12 Featured projects (West Nairobi School, RPF Rubavu Multipurpose Hall, Sarit Expo Centre, Parklands Baptist Church) - 13-14 Case studies - 15 Other completed projects - 16 Our clients - 17 Brands & partners (15 brands) - 18 Why choose us (4 Google reviews) - 19 Regional reach - 20 Contact.
+1 Cover - 2 Contents - 3 Our journey - 4 How we work - 5 Professional audio - 6 Acoustics & engineering - 7 Projects showcase - 8-11 Featured projects (West Nairobi School, RPF Rubavu Multipurpose Hall, Sarit Expo Centre, Parklands Baptist Church) - 12-13 Case studies - 14 Other completed projects - 15 Our clients - 16 Brands & partners (15 brands) - 17 Why choose us (4 Google reviews) - 18 Regional reach - 19 Contact.
 
 ## Structure
 | Path | What |

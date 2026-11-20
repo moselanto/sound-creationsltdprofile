@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.7.0 - 20 Nov 2026
+- Removed the Sectors page (Engineered for how every space is used.) on the owner's request. The profile is now 19 pages; the five unused sector photos were deleted.
+- Sections renumbered 01-10 and pages 01-19 on every page; contents page entries updated to match.
+- PDF rebuilt and checked.
+
 ## 1.6.1 - 20 Nov 2026
 - Professional audio (page 5), owner request to balance and improve: larger heading and intro; the six capabilities are now individual cards; the Parklands case card and the key brands strip are anchored above the footer so the right column fills the page evenly; larger brand tiles; photo colour softened slightly.
 - Acoustics & engineering (page 6): taller method panel; the bottom row is now three equal columns, each with a heading (On site, Treatment solutions, Engineering & consultancy), equal-height photos and solution cards, so the columns line up top and bottom.
