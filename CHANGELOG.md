@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.13.0 - 20 Nov 2026
+- Regional reach (page 18) rebuilt in the owner's preferred format (reference screenshot): heading, intro and a tall head office photo on the left; large map on the right with bigger uppercase pin labels and the legend inside the map; four office cards (Kenya, Rwanda, DRC Congo, UAE) under the map, all aligned to the footer.
+- Contact (last page) improved further: showroom photo panel on the right with the "Plan a project" card and Request a consultation button over it; headline, intro, four contact cards (phone, email, head office, hours) and social chips on the left, anchored above the closing bar.
+- PDF rebuilt and checked.
+
 ## 1.12.0 - 20 Nov 2026
 - Regional reach (page 18), owner request to improve: heading with "Regional impact." in red and intro alongside; larger map (true proportions, pins re-placed) with legend and "4 countries · 1 team"; head office photo with caption and four office cards (Kenya head office, Rwanda since 2022, DRC Congo since 2024, UAE since 2024) filling the right column to the footer.
 - Contact (page 19), owner request to improve: larger headline with "extraordinary" in red; a "Plan a project" card with the website's three steps (consultation and site visit; system design and quotation; supply, installation, training and support) and the Request a consultation button; red sound-wave graphic; one contact panel (head office, phone/WhatsApp, email, open hours) and social handles as chips, anchored above the closing bar.
