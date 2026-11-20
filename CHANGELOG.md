@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.14.0 - 21 Nov 2026
+- Final page-by-page check of all 19 pages: contents page numbers and section numbers match every page; no text runs off a page or into the footer.
+- Regional reach: head office photo re-framed so the "Sound Creations" sign reads from the left.
+- New Illustrator package in illustrator/: one layered SVG per page (svg/), built by build/build-svg.py from the same index.html. Each page opens in Illustrator as a 297 x 210 mm artboard with named layers (Background, Photo, Headline, Project write-up, Brand logos, Logo, Header label, Footer, ...), named sub-groups, live editable text (one text object per line), vector shapes and gradients, and photos embedded at full resolution inside clipping masks. Also included: static Space Grotesk and Inter fonts (fonts/), every image at full resolution (images/), the print PDF, README-Illustrator.txt and open-all-in-illustrator.jsx (saves all pages as .ai).
+- Image check: several photos taken from the original PDF or website are 100-150 ppi at printed size; listed in docs/FACTS-NEEDED.md for replacement with original camera files.
+
 ## 1.13.0 - 20 Nov 2026
 - Regional reach (page 18) rebuilt in the owner's preferred format (reference screenshot): heading, intro and a tall head office photo on the left; large map on the right with bigger uppercase pin labels and the legend inside the map; four office cards (Kenya, Rwanda, DRC Congo, UAE) under the map, all aligned to the footer.
 - Contact (last page) improved further: showroom photo panel on the right with the "Plan a project" card and Request a consultation button over it; headline, intro, four contact cards (phone, email, head office, hours) and social chips on the left, anchored above the closing bar.

@@ -12,3 +12,6 @@ The profile (v1.0) has no visible placeholders. These items are still worth conf
 - [ ] Registered business details (registration number, KRA PIN)
 - [ ] Directors and key staff with photos
 - [ ] Vector logo files
+
+## Photo resolution (for print)
+- [ ] Original camera files for photos under 150 ppi at printed size: cover, contents, professional audio, projects showcase, completed projects, and the featured project photos (West Nairobi School, RPF Rubavu, Sarit Expo Centre, Parklands Baptist Church, PCEA Kahawa Farmers, Playza, COVO NBO)

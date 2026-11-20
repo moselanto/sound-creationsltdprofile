@@ -1,0 +1,2 @@
+Space Grotesk (Florian Karsten) and Inter (Rasmus Andersson) are licensed under the SIL Open Font License 1.1: https://openfontlicense.org
+Static weights generated from the variable fonts used in the profile.

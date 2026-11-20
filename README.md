@@ -1,6 +1,6 @@
 # Sound Creations Ltd Company Profile
 
-Company profile for **Sound Creations Ltd** (https://soundcreationsltd.com), built by Pimofy Digital. Current version: **1.13.0** (see `CHANGELOG.md`).
+Company profile for **Sound Creations Ltd** (https://soundcreationsltd.com), built by Pimofy Digital. Current version: **1.14.0** (see `CHANGELOG.md`).
 
 One source, two outputs:
 - **Web profile:** `index.html` (responsive; works on GitHub Pages or any static host).
@@ -20,6 +20,8 @@ One source, two outputs:
 | `assets/img/projects/` | Real Sound Creations project photos |
 | `assets/img/brands/` | Manufacturer logos for the brands page |
 | `build/build-pdf.py` | Rebuilds the PDF with WeasyPrint |
+| `build/build-svg.py` | Rebuilds the layered, Illustrator-editable SVG pages in `illustrator/svg/` |
+| `illustrator/` | Illustrator package: layered SVG per page, fonts, full-resolution images, print PDF, README-Illustrator.txt, open-all-in-illustrator.jsx |
 | `docs/FACTS-NEEDED.md` | Items still worth confirming with Sound Creations |
 | `AGENTS.md` | Rules for anyone (human or AI) editing this repo |
 
@@ -35,3 +37,6 @@ Or open `index.html` in Chrome > Print > Save as PDF (A4 landscape, margins None
 
 ## Brand
 Near-black `#0B0A10`, Sound Creations red `#E0262B` (deep `#BA0B0B`), purple `#A98BD6` (deep `#624489`) and white; Space Grotesk headings, Inter body. Tagline: "If it sounds good, it's Sound Creations."
+
+## Illustrator
+After any change run `python3 build/build-pdf.py && python3 build/build-svg.py`, copy the PDF into `illustrator/`, and commit everything. Install the fonts in `illustrator/fonts/` before opening the SVGs in Illustrator (see `illustrator/README-Illustrator.txt`).

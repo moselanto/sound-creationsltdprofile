@@ -513,6 +513,7 @@ a{color:inherit;text-decoration:none}
 .rr-left .h2{font-size:23pt;margin-bottom:3mm}
 .rr-left .lead{font-size:8.6pt;margin:0}
 .rr-store{position:absolute;left:0;right:0;top:66mm;bottom:7mm}
+.rr-store img{object-position:18% center}
 .rr-cap{position:absolute;left:0;bottom:0;margin:0;font:700 5.8pt Inter,sans-serif;letter-spacing:.16em;text-transform:uppercase;color:var(--p)}
 .rr-right{position:absolute;left:106mm;right:16mm;top:22mm;bottom:24mm}
 .rr-map{width:175mm;height:116.7mm}
