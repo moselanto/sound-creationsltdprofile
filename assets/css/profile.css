@@ -80,8 +80,10 @@ a{color:inherit;text-decoration:none}
 .cv-steps span:first-child{background:var(--r);border-color:var(--r);color:#fff}
 .cv-steps i{width:4mm;height:1px;background:var(--r);position:relative}
 .cv-steps i:after{content:"";position:absolute;right:-.4mm;top:-.9mm;border:1mm solid transparent;border-left:1.3mm solid var(--r);border-right:0}
-.cover .cv h1{font-size:35pt;line-height:1.04;letter-spacing:-.03em;margin:0;max-width:none}
-.cv-rule{width:22mm;height:2px;background:var(--r);margin:6mm 0 5mm}
+.cover .cv h1{font-size:44pt;line-height:1.04;letter-spacing:-.03em;margin:0;max-width:none}
+.cv-rule{width:22mm;height:2px;background:var(--r);margin:7mm 0 6mm}
+.cv-prof b{display:block;font:700 15pt "Space Grotesk",sans-serif;letter-spacing:.06em;color:#fff}
+.cv-prof span{display:block;margin-top:1.5mm;font:600 7.5pt Inter,sans-serif;letter-spacing:.32em;color:#C9C9D2}
 .cv-sub{font-size:11pt;color:#C9C9D2;line-height:1.55;max-width:130mm;margin:0}
 
 /* 02 contents */

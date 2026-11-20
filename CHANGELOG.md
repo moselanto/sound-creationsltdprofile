@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0 - 20 Nov 2026
+- Cover (page 1), owner request: the headline is now the tagline "If it sounds good, it's Sound Creations." ("Sound Creations." in red). Removed "Engineering exceptional sound. Delivering complete solutions.", the small tagline line above the process steps and the "World-class professional audio..." sub-line.
+- "COMPANY PROFILE / 2026 EDITION · SINCE 2004" restored below the headline. Process steps (Consult > Design > Distribute > Integrate > Support) kept above the headline. PDF rebuilt and checked.
+
 ## 1.1.0 - 20 Nov 2026
 - Page 1 (cover) redesigned on the owner's request. It now carries only the logo (large, white), the tagline "If it sounds good, it's Sound Creations.", the Consult > Design > Distribute > Integrate > Support process (as linked pills), the headline "Engineering exceptional sound. Delivering complete solutions." and the sub-line "World-class professional audio, visual, lighting and acoustic solutions for Africa and the Middle East."
 - Removed from the cover: the country strip, the "Company Profile / 2026 Edition / Since 2004" block and the bottom bar with website, email and phone (all still on the contact page).
