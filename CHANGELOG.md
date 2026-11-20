@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.6.1 - 20 Nov 2026
+- Professional audio (page 5), owner request to balance and improve: larger heading and intro; the six capabilities are now individual cards; the Parklands case card and the key brands strip are anchored above the footer so the right column fills the page evenly; larger brand tiles; photo colour softened slightly.
+- Acoustics & engineering (page 6): taller method panel; the bottom row is now three equal columns, each with a heading (On site, Treatment solutions, Engineering & consultancy), equal-height photos and solution cards, so the columns line up top and bottom.
+- PDF rebuilt and checked.
+
 ## 1.6.0 - 20 Nov 2026
 - Removed the What we do page (One partner. Every discipline.) on the owner's request. The profile is now 20 pages; the three unused solution photos were deleted.
 - Professional audio (now page 5, section 03) redesigned: photo panel on the left with a "Designed before it's hung" note; six capability items in a numbered two-column grid; Parklands Baptist Church case in point with key figures (2,500 seats, 360 degree coverage, 168 channels); key brands shown as logo tiles (dB Technologies, NEXO, Bose, Shure, Allen & Heath, Midas, FANE).

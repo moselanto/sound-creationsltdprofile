@@ -226,6 +226,33 @@ a{color:inherit;text-decoration:none}
 .ac-caps li{font-size:7pt;padding:.6mm 0 .6mm 4mm}
 .ac-caps li:before{top:1.7mm;width:1.5mm;height:1.5mm}
 
+/* v1.7 balance: professional audio */
+#audio .ap{position:relative;height:160mm}
+#audio .h2{font-size:27pt}
+#audio .lead{font-size:8.8pt!important;line-height:1.65}
+.ap-grid{gap:3mm 3mm}
+.ap-c{background:var(--card);border:1px solid var(--line);border-top:1px solid var(--line);border-radius:2.5mm;padding:3.2mm 3.5mm}
+.ap-c h3{font-size:9pt}
+.ap-c p{font-size:7.1pt}
+#audio .ap-case{position:absolute;left:0;right:0;bottom:17mm;margin:0;padding:4.5mm 5mm}
+#audio .ap-stats b{font-size:18pt}
+#audio .ap-brands{position:absolute;left:0;right:0;bottom:0;margin:0;padding-top:3.5mm;border-top:1px solid var(--line)}
+#audio .ap-brands>div div{height:10mm}
+.ap-photo img{filter:saturate(.8) brightness(.92)}
+
+/* v1.7 balance: acoustics */
+#acoustics .pflow{margin-top:7mm}
+#acoustics .ps{padding:5.5mm 5mm 5.5mm}
+#acoustics .acrow{grid-template-columns:1fr 1fr 1.2fr;gap:6mm;bottom:26mm}
+#acoustics .ac-pics .img{height:38mm;margin-bottom:3mm}
+#acoustics .ac-pics .img:last-child{margin-bottom:0}
+#acoustics .ac-sol div{height:24.3mm;margin-bottom:2.5mm;display:block}
+#acoustics .ac-sol div:last-child{margin-bottom:0}
+#acoustics .ac-sol h3{font-size:9.5pt;margin-bottom:1.2mm}
+#acoustics .ac-sol p{font-size:7.3pt}
+#acoustics .ac-caps li{font-size:7pt;padding:.45mm 0 .45mm 4mm}
+#acoustics .callout{margin-top:2.5mm!important;padding:3mm 4mm}
+
 /* split pillar */
 .pill-l{position:absolute;top:0;left:0;bottom:0;width:45%;z-index:0}
 .pill-l img{width:100%;height:100%;object-fit:cover}
@@ -356,7 +383,7 @@ a{color:inherit;text-decoration:none}
  .who,.ac,.reach,.vm,.jr{grid-template-columns:1fr}
  .jr-photo{height:56vw}
  #journey .tl{position:static;margin-top:9mm}
- .svrow{position:static;margin-top:8mm}.ap-photo{position:relative;width:auto;height:58vw;margin:0 -6mm 6mm;inset:auto}.ap{margin-left:0}.ap-badge{left:6mm}.acrow{position:static;margin-top:8mm;grid-template-columns:1fr}.ac-pics{display:grid;grid-template-columns:1fr 1fr;gap:3mm}.ac-pics .img{margin:0}.ac-pics .img{height:40vw}.ap-brands>div{grid-template-columns:repeat(4,1fr)}.pflow{grid-template-columns:1fr 1fr}.svgrid{grid-template-columns:1fr 1fr}
+ .svrow{position:static;margin-top:8mm}#audio .ap{height:auto}#audio .ap-case,#audio .ap-brands{position:static;margin-top:5mm}#acoustics .acrow{grid-template-columns:1fr 1fr}#acoustics .ac-sol div{height:auto}.ap-photo{position:relative;width:auto;height:58vw;margin:0 -6mm 6mm;inset:auto}.ap{margin-left:0}.ap-badge{left:6mm}.acrow{position:static;margin-top:8mm;grid-template-columns:1fr}.ac-pics{display:grid;grid-template-columns:1fr 1fr;gap:3mm}.ac-pics .img{margin:0}.ac-pics .img{height:40vw}.ap-brands>div{grid-template-columns:repeat(4,1fr)}.pflow{grid-template-columns:1fr 1fr}.svgrid{grid-template-columns:1fr 1fr}
  .sol,.svc,.sec,.cases,.done,.bnote,.offices,.cbox{grid-template-columns:1fr 1fr}
  .tl,.proc{grid-template-columns:1fr 1fr}
  .cl{grid-template-columns:repeat(5,1fr)}.bgrid{grid-template-columns:repeat(3,1fr)}
@@ -372,7 +399,7 @@ a{color:inherit;text-decoration:none}
  .tag{display:none}
  .h1,.cover h1{font-size:24pt}.h2{font-size:19pt}
  .toc,.statrow{grid-template-columns:1fr 1fr}
- .pflow,.svgrid,.ap-grid,.ap-case{grid-template-columns:1fr}.ap-brands{flex-direction:column;align-items:flex-start}
+ .pflow,.svgrid,.ap-grid,.ap-case{grid-template-columns:1fr}#acoustics .acrow{grid-template-columns:1fr}.ap-brands{flex-direction:column;align-items:flex-start}
  .sol,.svc,.sec,.cases,.done,.bnote,.offices,.cbox,.vals,.why,.revs,.caps,.crit,.tl,.proc{grid-template-columns:1fr}
  .who .imgs{grid-template-rows:56vw 34vw}
  .cl{grid-template-columns:repeat(3,1fr)}.bgrid{grid-template-columns:repeat(2,1fr)}
