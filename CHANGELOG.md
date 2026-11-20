@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.15.0 - 21 Nov 2026
+- Contents (page 2) redesigned on the owner's request: larger "Contents" heading with a one-line intro; the 8 sections are now numbered cards in two columns (01-04 left, 05-08 right), each with a short description and its page range (Projects Showcase 07-15, Regional Reach & Contact 18-19), filling the page to the footer; "At a glance" panel aligned with the bottom of the cards.
+- Illustrator package rebuilt (illustrator/svg, print PDF) and zip updated.
+
 ## 1.14.0 - 21 Nov 2026
 - Final page-by-page check of all 19 pages: contents page numbers and section numbers match every page; no text runs off a page or into the footer.
 - Regional reach: head office photo re-framed so the "Sound Creations" sign reads from the left.
