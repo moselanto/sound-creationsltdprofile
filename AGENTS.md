@@ -9,3 +9,6 @@
 7. Keep web and PDF in one source (`index.html`). After any content or style change, rebuild `dist/Sound-Creations-Company-Profile.pdf`, check every page for overflow, and commit both together.
 8. No `todo` placeholders may remain in a client-facing release (`grep -ni todo index.html`).
 9. Record each change in `CHANGELOG.md` and bump the version.
+
+## Team share package
+- `dist/Sound-Creations-Company-Profile-2026-Team-Package.zip` is what the owner shares with the team. Rebuild it with `python3 build/build-team-package.py` after every PDF/SVG change, and update `build/team-READ-ME-FIRST.txt` (version, date, page list) when those change.

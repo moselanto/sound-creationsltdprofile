@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.15.1 - 23 Nov 2026
+- Added the team share package: `dist/Sound-Creations-Company-Profile-2026-Team-Package.zip` (final PDF, a JPG preview of every page, the Illustrator-Editable package and READ-ME-FIRST.txt), built by the new `build/build-team-package.py` from `build/team-READ-ME-FIRST.txt`. Downloadable from the live site.
+
 ## 1.15.0 - 21 Nov 2026
 - Contents (page 2) redesigned on the owner's request: larger "Contents" heading with a one-line intro; the 8 sections are now numbered cards in two columns (01-04 left, 05-08 right), each with a short description and its page range (Projects Showcase 07-15, Regional Reach & Contact 18-19), filling the page to the footer; "At a glance" panel aligned with the bottom of the cards.
 - Illustrator package rebuilt (illustrator/svg, print PDF) and zip updated.

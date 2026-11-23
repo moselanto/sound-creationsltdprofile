@@ -1,0 +1,23 @@
+SOUND CREATIONS LTD - COMPANY PROFILE 2026
+Version 1.15.0 - 21 November 2026
+
+WHAT IS IN THIS FOLDER
+1. Sound-Creations-Company-Profile-2026.pdf
+   The final profile (19 pages, A4 landscape). Use this for emailing, printing and sharing with clients.
+
+2. Page-Previews/
+   One JPG image per page, for quick viewing on a phone or for WhatsApp/social posts.
+
+3. Illustrator-Editable/
+   For the design team. Layered SVG files (one per page) with live, editable text,
+   the fonts used, all images, and a script that opens every page in Adobe Illustrator.
+   Start with Illustrator-Editable/README-Illustrator.txt.
+   Install the fonts in Illustrator-Editable/fonts before opening the files.
+
+PAGES
+01 Cover | 02 Contents | 03 Our Journey | 04 How We Work | 05 Professional Audio
+06 Acoustics & Engineering | 07 Projects Showcase | 08-15 Featured Projects
+16 Completed Projects | 17 Brands & Partners | 18 Regional Reach | 19 Contact
+
+ONLINE VERSION
+https://moselanto.github.io/sound-creationsltdprofile
