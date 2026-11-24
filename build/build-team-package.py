@@ -4,7 +4,7 @@
 Contents: final PDF, one JPG preview per page, the Illustrator-Editable package
 (copy of illustrator/) and READ-ME-FIRST.txt (from build/team-READ-ME-FIRST.txt).
 Run after build-pdf.py and build-svg.py.
-Previews are kept modest (scale 1.6, JPEG q82) so the zip stays under ~20 MB,
+Previews are kept modest (scale 1.6, JPEG q82) so the zip stays well under ~18 MB,
 the size the repo commit tool can handle.  Needs: pip install pypdfium2
 """
 import os, shutil, tempfile, zipfile
@@ -19,7 +19,9 @@ with tempfile.TemporaryDirectory() as tmp:
     top = os.path.join(tmp, NAME)
     os.makedirs(os.path.join(top, "Page-Previews"))
     shutil.copy(PDF, os.path.join(top, NAME + ".pdf"))
-    shutil.copytree(os.path.join(ROOT, "illustrator"), os.path.join(top, "Illustrator-Editable"))
+    # the print PDF is already at the top level, so skip the duplicate copy in illustrator/
+    shutil.copytree(os.path.join(ROOT, "illustrator"), os.path.join(top, "Illustrator-Editable"),
+                    ignore=shutil.ignore_patterns("Sound-Creations-Company-Profile.pdf"))
     shutil.copy(os.path.join(ROOT, "build", "team-READ-ME-FIRST.txt"), os.path.join(top, "READ-ME-FIRST.txt"))
     names = sorted(os.path.splitext(f)[0] for f in os.listdir(os.path.join(ROOT, "illustrator", "svg")))
     doc = pdfium.PdfDocument(PDF)
