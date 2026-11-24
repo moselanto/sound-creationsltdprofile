@@ -3,7 +3,9 @@
 
 Contents: final PDF, one JPG preview per page, the Illustrator-Editable package
 (copy of illustrator/) and READ-ME-FIRST.txt (from build/team-READ-ME-FIRST.txt).
-Run after build-pdf.py and build-svg.py.  Needs: pip install pypdfium2
+Run after build-pdf.py and build-svg.py.
+Previews are kept modest (scale 1.6, JPEG q82) so the zip stays under ~20 MB,
+the size the repo commit tool can handle.  Needs: pip install pypdfium2
 """
 import os, shutil, tempfile, zipfile
 import pypdfium2 as pdfium
@@ -22,8 +24,8 @@ with tempfile.TemporaryDirectory() as tmp:
     names = sorted(os.path.splitext(f)[0] for f in os.listdir(os.path.join(ROOT, "illustrator", "svg")))
     doc = pdfium.PdfDocument(PDF)
     for i in range(len(doc)):
-        doc[i].render(scale=2).to_pil().convert("RGB").save(
-            os.path.join(top, "Page-Previews", names[i] + ".jpg"), quality=88)
+        doc[i].render(scale=1.6).to_pil().convert("RGB").save(
+            os.path.join(top, "Page-Previews", names[i] + ".jpg"), quality=82)
     if os.path.exists(OUT):
         os.remove(OUT)
     with zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED) as z:

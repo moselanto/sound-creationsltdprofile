@@ -614,3 +614,4 @@ a{color:inherit;text-decoration:none}
 
 /* v1.16: client-supplied CITAM Buruburu photo (wide panorama), framed on the stage */
 #fp6 .fx-img>img{object-position:52% center}
+#fp6 .fx-inset img{object-position:30% center}

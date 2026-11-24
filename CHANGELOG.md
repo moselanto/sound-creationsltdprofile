@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.16.1 - 24 Nov 2026
+- Owner request: the small inset photo on the CITAM Buruburu page (page 13) now uses the same client-supplied photo (`citam-buruburu-stage.jpg`), framed on the seating and stage (`#fp6 .fx-inset img{object-position:30% center}`). Old `citam-buruburu.jpg` removed.
+- PDF, page 13 SVG, illustrator/ PDF and images, and the team share package rebuilt.
+
 ## 1.16.0 - 24 Nov 2026
 - Client feedback (Sound Creations, after the review email): CITAM Buruburu main project photo (page 13) replaced with the client-supplied image `assets/img/projects/citam-buruburu-stage.jpg` (wide shot of the stage and dB Technologies system), framed on the stage with `#fp6 .fx-img>img{object-position:52% center}`. Old `citam-buruburu-1.jpg` removed. Inset photo unchanged.
 - PDF, Illustrator SVGs, illustrator/ PDF and images, and the team share package rebuilt.
