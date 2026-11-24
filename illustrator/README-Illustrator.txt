@@ -5,8 +5,13 @@ WHAT IS IN THIS FOLDER
   svg/      19 pages, one file per page (297 x 210 mm). Open these in Illustrator.
   fonts/    Space Grotesk and Inter (static TTF, SIL Open Font License).
   images/   Every photo and logo used, at full original resolution.
-  Sound-Creations-Company-Profile.pdf   The finished print PDF (reference / proof).
   open-all-in-illustrator.jsx           Optional script: converts all 19 SVGs to .ai files.
+
+PRINT PDF (reference / proof)
+  In the team zip, the finished print PDF is at the top level of the zip:
+  Sound-Creations-Company-Profile-2026.pdf, next to this Illustrator-Editable folder.
+  It is not inside the Illustrator-Editable folder.
+  (In the GitHub repo, a copy is also kept at illustrator/Sound-Creations-Company-Profile.pdf.)
 
 STEP 1 - INSTALL THE FONTS FIRST
   Install every .ttf in fonts/ (double-click > Install), then restart Illustrator.

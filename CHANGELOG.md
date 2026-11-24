@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.16.2 - 24 Nov 2026
+- `illustrator/README-Illustrator.txt`: now says the print PDF is at the top level of the team zip (`Sound-Creations-Company-Profile-2026.pdf`), not inside the Illustrator-Editable folder. Team package rebuilt.
+
 ## 1.16.1 - 24 Nov 2026
 - Owner request: the small inset photo on the CITAM Buruburu page (page 13) now uses the same client-supplied photo (`citam-buruburu-stage.jpg`), framed on the seating and stage (`#fp6 .fx-inset img{object-position:30% center}`). Old `citam-buruburu.jpg` removed.
 - PDF, page 13 SVG, illustrator/ PDF and images, and the team share package rebuilt.
