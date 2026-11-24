@@ -611,3 +611,6 @@ a{color:inherit;text-decoration:none}
  .cfoot{flex-direction:column;align-items:flex-start;gap:3mm}
  .map{height:70vw}
 }
+
+/* v1.16: client-supplied CITAM Buruburu photo (wide panorama), framed on the stage */
+#fp6 .fx-img>img{object-position:52% center}
